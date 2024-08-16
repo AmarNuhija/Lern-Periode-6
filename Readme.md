@@ -11,20 +11,21 @@
 5. Es gibt viele geeignete Projekte, doch dieses eine Projekt kommt wahrscheinlich aus Zufall indem ich einfach so durchs Netz ein bisschen rumscrolle und entdecke, was für Projekte man machen kann. 
 
 ## 16.8.2024
-
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Module noch nicht richtig begonnen haben und ich Zeit hatte, Projekte anzugehen. Ich habe im Internet nachgesehen, welche Projekte man starten könnte. Dabei erinnerte ich mich daran, welche Spiele ich als Kind gespielt habe, und entschloss mich, Simon Says zu programmieren oder es zumindest zu versuchen. Auf YouTube habe ich daraufhin viele verschiedene Videos gesehen und mich inspirieren lassen. Mit der Hilfe dieser Videos und Stack Overflow habe ich es dann schließlich geschafft.(85 Wörter)
 
 ## 23.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Simon Says repetieren
+- [ ] C# Spielcharakter der sich auf ein Feld bewegt implementieren
+- [ ] Spielfeld programmieren wo verschiedene charaktere drauf rumlaufen können
+- [ ] C# Komplettkurs weiter anschauen
 
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| Testfall-Nummer | Ausgangslage (Given) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- |  --------------| -------- |
+| 1               |  Auf Button drücken  | Das Spiel startet sich|  Ja      |
+| 2               |  Farben zeigen sich  | Verschiedene Farben werden angezeigt | Ja        |
+| 3               | Drücken auf diverse Farbfelder | Das Feld wird Schwarz angezeigt | Ja |
+| 4               | Sobald das Spiel fertig ist | Feld poppt auf und es steht das man es richtig gemacht hat | Ja |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
