@@ -18,7 +18,7 @@ Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Modul
 - [ ] Simon Says repetieren
 - [ ] C# Spielcharakter der sich auf ein Feld bewegt implementieren
 - [ ] Spielfeld programmieren wo verschiedene charaktere drauf rumlaufen können
-- [ ] C# Komplettkurs weiter anschauen
+- [ ] Vertiefung alles Rund um Aufgaben Modul vom 21.08
 
 | Testfall-Nummer | Ausgangslage (Given) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- |  --------------| -------- |
