@@ -11,6 +11,8 @@
 5. Es gibt viele geeignete Projekte, doch dieses eine Projekt kommt wahrscheinlich aus Zufall indem ich einfach so durchs Netz ein bisschen rumscrolle und entdecke, was für Projekte man machen kann. 
 
 ## 16.8.2024
+## Leit-Satz
+
 Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Module noch nicht richtig begonnen haben und ich Zeit hatte, Projekte anzugehen. Ich habe im Internet nachgesehen, welche Projekte man starten könnte. Dabei erinnerte ich mich daran, welche Spiele ich als Kind gespielt habe, und entschloss mich, Simon Says zu programmieren oder es zumindest zu versuchen. Auf YouTube habe ich daraufhin viele verschiedene Videos gesehen und mich inspirieren lassen. Mit der Hilfe dieser Videos und Stack Overflow habe ich es dann schließlich geschafft.(85 Wörter)
 
 ## 23.8.2024
@@ -27,7 +29,14 @@ Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Modul
 | 3               | Drücken auf diverse Farbfelder | Das Feld wird Schwarz angezeigt | Ja |
 | 4               | Sobald das Spiel fertig ist | Feld poppt auf und es steht das man es richtig gemacht hat | Ja |
 
-✍️ Heute habe ich... (50-100 Wörter)
+## 23.8.2024
+## Leit-Satz
+
+Heute habe ich mich eher auf das Lernen für die Kanti konzentriert. Es gab ein paar Veränderungen bei den Arbeitspacketen. Ich habe mich vor allem darauf konzenzriert, dass ich zuerst simon Says repetiere, denn es war doch noch eher schwieriger, sich das zu merken. Spielecharakter und allgemein neues Projekt habe ich rausgelassen, weil ich mir mehr Zeit geben möchte, das richtig und korrekt zu implementieren. Vertieft habe ich mich auch nur bis zur einer Lektion.(75 Wörter)
+
+
+
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
