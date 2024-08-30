@@ -41,7 +41,10 @@ Heute habe ich mich eher auf das Lernen für die Kanti konzentriert. Es gab ein 
 - [ ] C# Spielfeld implementieren
 - [ ] Modul 231 weiterarbeiten
 
+## 23.8.2024
+## Leit-Satz
 
+Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mittwoch angefangen habe, zu beendet. Dann habe ich noch angefangen auf Youtube rumzuströben, was für Projekte man anfangen kann. Kam mir in den Sinn ein SPielfeld mit verschiedenen Figuren laufen zu lassen, was ich eher gegen Ende der Session angefangen habe. Doch das ging bis jetzt eigentlich recht gut. 
 
 
 
