@@ -15,7 +15,7 @@
 
 Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Module noch nicht richtig begonnen haben und ich Zeit hatte, Projekte anzugehen. Ich habe im Internet nachgesehen, welche Projekte man starten könnte. Dabei erinnerte ich mich daran, welche Spiele ich als Kind gespielt habe, und entschloss mich, Simon Says zu programmieren oder es zumindest zu versuchen. Auf YouTube habe ich daraufhin viele verschiedene Videos gesehen und mich inspirieren lassen. Mit der Hilfe dieser Videos und Stack Overflow habe ich es dann schließlich geschafft.(85 Wörter)
 
-## 23.8.2024
+## Für den 23.8.2024
 
 - [ ] Simon Says repetieren
 - [ ] C# Spielcharakter der sich auf ein Feld bewegt implementieren
@@ -33,6 +33,15 @@ Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Modul
 ## Leit-Satz
 
 Heute habe ich mich eher auf das Lernen für die Kanti konzentriert. Es gab ein paar Veränderungen bei den Arbeitspacketen. Ich habe mich vor allem darauf konzenzriert, dass ich zuerst simon Says repetiere, denn es war doch noch eher schwieriger, sich das zu merken. Spielecharakter und allgemein neues Projekt habe ich rausgelassen, weil ich mir mehr Zeit geben möchte, das richtig und korrekt zu implementieren. Vertieft habe ich mich auch nur bis zur einer Lektion.(75 Wörter)
+
+## Für den 30.08.2024
+
+- [ ] Grafik in C# miteinbauen
+- [ ] GitHub aufputzen indem ich alle Projekte einfüge
+- [ ] C# Spielfeld implementieren
+- [ ] Modul 231 weiterarbeiten
+
+
 
 
 
