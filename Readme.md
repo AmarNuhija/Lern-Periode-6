@@ -46,6 +46,13 @@ Heute habe ich mich eher auf das Lernen für die Kanti konzentriert. Es gab ein 
 
 Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mittwoch angefangen habe, zu beendet. Dann habe ich noch angefangen auf Youtube rumzuströben, was für Projekte man anfangen kann. Kam mir in den Sinn ein SPielfeld mit verschiedenen Figuren laufen zu lassen, was ich eher gegen Ende der Session angefangen habe. Doch das ging bis jetzt eigentlich recht gut. 
 
+## Für den 06.09.2024
+
+- [ ] Grafik in C# miteinbauen
+- [ ] Deutschprüfung lernen für den Nachmittag
+- [ ] C# Charaktäre implementieren
+- [ ] Charaktäre laufen lasssen auf ein Feld
+
 
 
 
