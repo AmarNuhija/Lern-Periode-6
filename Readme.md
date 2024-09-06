@@ -48,7 +48,7 @@ Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mitt
 
 ## Für den 06.09.2024
 
-- [ ] Grafik in C# miteinbauen
+- [ ] Weiter an OOP arbeiten
 - [ ] Deutschprüfung lernen für den Nachmittag
 - [ ] C# Charaktäre implementieren
 - [ ] Charaktäre laufen lasssen auf ein Feld
