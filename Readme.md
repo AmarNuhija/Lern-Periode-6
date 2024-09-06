@@ -53,6 +53,11 @@ Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mitt
 - [ ] C# Charaktäre implementieren
 - [ ] Charaktäre laufen lasssen auf ein Feld
 
+## 06.09.2024
+## Leit-Satz
+
+Heute ging es ein bisschen besser mit Win Forms. Letztes mal hatte ich Probleme das ich irgendwie keine Images einfügen konnte, doch das hat sich für diese Woche verbessert. Auch habe ich weiter an OOP gearbeitet, besser gesagt mein schon vorhandenen OOP Code weiter bearbeitet und noch sachen hinzu implementiert. Ich habe dann die restzeit genutzt, um Deutsch zu lernen für die Schule an der Alten Kanti. Ich habe wirklich versucht das gegen Ende zu gestalten, da ich mich schon noch eher auf Coden konzentriert habe. Das bedeutet das ich schon recht nah am 2D Spiel dran bin. (98 Wörter)
+
 
 
 
