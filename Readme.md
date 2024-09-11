@@ -58,6 +58,12 @@ Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mitt
 
 Heute ging es ein bisschen besser mit Win Forms. Letztes mal hatte ich Probleme das ich irgendwie keine Images einfügen konnte, doch das hat sich für diese Woche verbessert. Auch habe ich weiter an OOP gearbeitet, besser gesagt mein schon vorhandenen OOP Code weiter bearbeitet und noch sachen hinzu implementiert. Ich habe dann die restzeit genutzt, um Deutsch zu lernen für die Schule an der Alten Kanti. Ich habe wirklich versucht das gegen Ende zu gestalten, da ich mich schon noch eher auf Coden konzentriert habe. Das bedeutet das ich schon recht nah am 2D Spiel dran bin. (98 Wörter)
 
+## Für den 14.09.2024
+
+- [ ] Weiter an OOP arbeiten (Eigentlich behalte ich das die ganze Zeit weil es einfach wichtig)
+- [ ] Aufgabe LA_4211 weiter implementieren (New World, James Bond)
+- [ ] C# Implementation Windows Forms
+- [ ] Restliche Zeit Modul 231 (Herr Colic)
 
 
 
