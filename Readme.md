@@ -17,10 +17,10 @@ Heute habe ich mich wieder mehr auf das Programmieren konzentriert, da die Modul
 
 ## Für den 23.8.2024
 
-- [ ] Simon Says repetieren
+- [x] Simon Says repetieren
 - [ ] C# Spielcharakter der sich auf ein Feld bewegt implementieren
-- [ ] Spielfeld programmieren wo verschiedene charaktere drauf rumlaufen können
-- [ ] Vertiefung alles Rund um Aufgaben Modul vom 21.08
+- [x] Spielfeld programmieren wo verschiedene charaktere drauf rumlaufen können
+- [x] Vertiefung alles Rund um Aufgaben Modul vom 21.08
 
 | Testfall-Nummer | Ausgangslage (Given) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- |  --------------| -------- |
@@ -36,10 +36,10 @@ Heute habe ich mich eher auf das Lernen für die Kanti konzentriert. Es gab ein 
 
 ## Für den 30.08.2024
 
-- [ ] Grafik in C# miteinbauen
-- [ ] GitHub aufputzen indem ich alle Projekte einfüge
+- [x] Grafik in C# miteinbauen
+- [x] GitHub aufputzen indem ich alle Projekte einfüge
 - [ ] C# Spielfeld implementieren
-- [ ] Modul 231 weiterarbeiten
+- [x] Modul 231 weiterarbeiten
 
 ## 23.8.2024
 ## Leit-Satz
@@ -48,9 +48,9 @@ Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mitt
 
 ## Für den 06.09.2024
 
-- [ ] Weiter an OOP arbeiten
-- [ ] Deutschprüfung lernen für den Nachmittag
-- [ ] C# Charaktäre implementieren
+- [x] Weiter an OOP arbeiten
+- [x] Deutschprüfung lernen für den Nachmittag
+- [x] C# Charaktäre implementieren
 - [ ] Charaktäre laufen lasssen auf ein Feld
 
 ## 06.09.2024
