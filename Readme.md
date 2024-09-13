@@ -60,10 +60,10 @@ Heute ging es ein bisschen besser mit Win Forms. Letztes mal hatte ich Probleme 
 
 ## Für den 13.09.2024
 
-- [ ] Weiter an OOP arbeiten (Eigentlich behalte ich das die ganze Zeit weil es einfach wichtig)
+- [X] Weiter an OOP arbeiten (Eigentlich behalte ich das die ganze Zeit weil es einfach wichtig)
 - [ ] Aufgabe LA_4211 weiter implementieren (New World, James Bond)
-- [ ] C# Implementation Windows Forms
-- [ ] Restliche Zeit Modul 231 (Herr Colic)
+- [X] C# Implementation Windows Forms
+- [X] Restliche Zeit Modul 231 (Herr Colic)
 
 
 
