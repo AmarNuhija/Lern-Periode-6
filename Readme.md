@@ -65,6 +65,11 @@ Heute ging es ein bisschen besser mit Win Forms. Letztes mal hatte ich Probleme 
 - [X] C# Implementation Windows Forms
 - [X] Restliche Zeit Modul 231 (Herr Colic)
 
+## 13.09.2024
+# Leit-Satz
+
+Heute habe ich mich eher um das Programmieren für die LB konzentriert, da ich bis gestern nicht wusste, das wir ein HTML-Projekt abgeben müssen. Doch das war kein Problem für mich den HTML habe ich wirklich gerne. Das bedeutet das ich die das eigentliche Arbeitspacket (Restliche Zeit Modul 231) geändert habe auf (HTML Website programmieren). 
+
 
 
 
