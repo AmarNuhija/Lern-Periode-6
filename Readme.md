@@ -66,9 +66,9 @@ Heute ging es ein bisschen besser mit Win Forms. Letztes mal hatte ich Probleme 
 - [X] Restliche Zeit Modul 231 (Herr Colic)
 
 ## 13.09.2024
-# Leit-Satz
+## Leit-Satz
 
-Heute habe ich mich eher um das Programmieren für die LB konzentriert, da ich bis gestern nicht wusste, das wir ein HTML-Projekt abgeben müssen. Doch das war kein Problem für mich den HTML habe ich wirklich gerne. Das bedeutet das ich die das eigentliche Arbeitspacket (Restliche Zeit Modul 231) geändert habe auf (HTML Website programmieren). 
+Heute habe ich mich eher auf das Programmieren für die LB konzentriert, da ich bis gestern nicht wusste, dass wir ein HTML-Projekt abgeben müssen. Doch das war kein Problem für mich, denn HTML mag ich wirklich gerne. Das bedeutet, dass ich das eigentliche Arbeitspaket "Restliche Zeit Modul 231" auf "HTML-Website programmieren" geändert habe. Zum Glück ist nichts dazwischengekommen, wie zum Beispiel das Lernen für einen Test für die Kanti. Volle Zeit und volles Potenzial nur fürs Coden. OOP bin ich für 45 Minuten durchgegangen und nicht länger. Windows Forms habe ich sehr vernachlässigt, da ich es heute sehr langweilig fand und es auch durch HTML ersetzt habe. Doch ich hatte das Gespräch mit Herr Meyer was mir auch wirklich geholfen hat, da ich jetzt mehr bescheid weiss über die Noten-Konstellation. (132 Wörter)
 
 
 
