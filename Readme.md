@@ -72,10 +72,10 @@ Heute habe ich mich eher auf das Programmieren für die LB konzentriert, da ich 
 
 ## Für den 20.09.2024
 
-- [ ] Website weiter implementieren
-- [ ] Dokumentation für Website weiter arbeiten
-- [ ] C# Implementation Auftrag LeftCenterRight
-- [ ] Restliche Zeit Modul 231 (Herr Colic)
+- [X] Website weiter implementieren
+- [X] Dokumentation für Website weiter arbeiten
+- [X] C# Implementation Auftrag LeftCenterRight
+- [X] Restliche Zeit Modul 231 (Herr Colic)
 
 
 
