@@ -82,6 +82,10 @@ Heute habe ich mich eher auf das Programmieren für die LB konzentriert, da ich 
 
 Heute habe ich mich hauptsächlich auf die Implementierung von Websites konzentriert, da ich am Donnerstag nicht alles abschließen konnte und unzufrieden war. Daher habe ich heute die restlichen Aufgaben fertiggestellt, dokumentiert und somit abgeschlossen. Am Donnerstag unterlief mir zudem ein großer Fehler: Ich habe versehentlich meinen neueren Code gelöscht und war dadurch wieder fast am Anfang, was bedeutete, dass ich alles erneut programmieren musste. Am Ende gelang es mir jedoch beim zweiten Versuch sogar besser. Die Aufträge, die bei Herrn Colic 1-2 Stunden in Anspruch nehmen, habe ich begonnen. (89 Wörter)
 
+## Für den 18.10.2024
+
+- [X] Vorbereitung auf Modul 320
+- [X] Windows Forms weiter implementieren
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
