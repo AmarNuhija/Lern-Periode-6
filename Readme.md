@@ -84,8 +84,8 @@ Heute habe ich mich hauptsächlich auf die Implementierung von Websites konzentr
 
 ## Für den 18.10.2024
 
-- [] Vorbereitung auf Modul 320
-- [] Windows Forms weiter implementieren
+- [ ] Vorbereitung auf Modul 320
+- [ ] Windows Forms weiter implementieren
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
