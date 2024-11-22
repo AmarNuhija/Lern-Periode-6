@@ -49,7 +49,7 @@ Heute habe ich mich noch dafür entschieden, am Promillerechne, denn ich am Mitt
 ## Für den 06.09.2024
 
 - [x] Weiter an OOP arbeiten
-- [x] Deutschprüfung lernen für den Nachmittag
+- [x] BlackJack Spiel implementieren
 - [x] C# Charaktäre implementieren
 - [ ] Charaktäre laufen lasssen auf ein Feld
 
